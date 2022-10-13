@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [chat engine](https://github.com/sweta1609/major-project-2.git)
 
-- 🌱 I’m currently learning **javascript,node.js,express.js,passport.js**
+- 🌱 I’m currently learning **javascript,node.js,express.js,passport.js,React.js**
 
 - 📫 How to reach me **swetakumarisingh009@gmail.com**
 
