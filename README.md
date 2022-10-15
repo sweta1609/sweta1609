@@ -16,6 +16,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sweta1609&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sweta1609&theme=blue-green)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swetakumarisin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swetakumarisin1" height="30" width="40" /></a>
