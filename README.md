@@ -28,5 +28,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sweta1609&show_icons=true&locale=en&layout=compact" alt="sweta1609" /></p>
 
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
