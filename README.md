@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **swetakumarisingh009@gmail.com**
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=sweta1609)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
