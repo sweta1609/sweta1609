@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [chat engine](https://github.com/sweta1609/major-project-2.git)
 
-- 🌱 I’m currently learning **javascript,React.js**
+- 🌱 I’m currently learning **javascript,React.js,Node Js,Express Js ,Tigergraps ,Postgress,Mongodb,Typescript,Airbyte,Neo4j**
 
 - 📫 How to reach me **swetakumarisingh009@gmail.com**
 
